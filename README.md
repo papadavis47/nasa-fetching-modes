@@ -1,1 +1,1 @@
-# Practice Different Way of Fetching Data
+# Practice Different Ways of Fetching Data
